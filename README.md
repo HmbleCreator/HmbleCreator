@@ -80,7 +80,7 @@ My compass is guided by mathematical elegance and an insatiable curiosity about 
   *The boundary between energy and matter is just the speed of light squared*
   
   ```
-  eiπ + 1 = 0
+  e^iπ + 1 = 0
   ```
   
   *The most beautiful equation in mathematics: connecting five fundamental constants*
