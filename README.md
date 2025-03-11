@@ -5,7 +5,7 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=hmblecreator&label=Visitors&color=6f42c1&style=flat)](https://github.com/hmblecreator)
   
-  <img src="https://github.com/HmbleCreator/HmbleCreator/blob/main/mystical.jpg" width="400" alt="Cosmic Explorer">
+  <img src="https://github.com/HmbleCreator/HmbleCreator/blob/main/mystical.jpg" width="200" alt="Cosmic Explorer">
 
   *"The universe is a grand mathematical equation waiting to be deciphered."*
   
