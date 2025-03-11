@@ -1,29 +1,29 @@
 <div align="center">
   
-  # 🚀 Amit Kumar
-  ### Exploring the Universe Through Code
+  # 🌌 Amit Kumar
+  ### Cosmic Explorer & CS Engineer
   
   [![Profile Views](https://komarev.com/ghpvc/?username=hmblecreator&label=Visitors&color=6f42c1&style=flat)](https://github.com/hmblecreator)
   
-  <img src="https://raw.githubusercontent.com/hmblecreator/hmblecreator/main/assets/cosmic_coder.svg" width="400" alt="Cosmic Coder">
+  <img src="https://raw.githubusercontent.com/hmblecreator/hmblecreator/main/assets/cosmic_explorer.svg" width="400" alt="Cosmic Explorer">
 
-  *"In the grand computational universe, every algorithm is a constellation waiting to be discovered."*
+  *"The universe is a grand mathematical equation waiting to be deciphered."*
   
 </div>
 
-## 🔭 Gravity Well
+## 🔭 Stellar Voyager
 
-Computer Science Engineer orbiting the digital cosmos, specializing in machine learning gravitational fields and algorithmic nebulae. My code traverses the space-time continuum, solving complex problems at relativistic speeds.
+Computer Science Engineer with a passion for exploring the mysteries of mathematics, physics, and the cosmos. I use technology as a telescope to peer into the unknown, mapping digital constellations and charting new territories in the vast universe of knowledge.
 
-## 📊 Quantum Metrics
+## 📊 Expedition Log
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmblecreator&show_icons=true&theme=radical&layout=compact" width="340" alt="Language Stats">
 
-As I journey through the digital expanse, I've mastered various programming languages and tools. Each repository is a celestial body in my ever-expanding universe of code.
+My journey through the intellectual cosmos has equipped me with various tools and skills. Each project represents a new discovery in my ongoing mission to understand the fundamental nature of reality through computational exploration.
 
-My trajectory is guided by mathematical precision and the endless curiosity about what lies beyond the next algorithmic horizon.
+My compass is guided by mathematical elegance and an insatiable curiosity about the fabric of space-time.
 
-## 🛠️ Technological Spectrum
+## 🛠️ Explorer's Toolkit
 
 <div align="center">
 
@@ -63,27 +63,32 @@ My trajectory is guided by mathematical precision and the endless curiosity abou
 
 </div>
 
-## 🌌 Connect Across Dimensions
+## 🌠 Interstellar Communications
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-0b9a5325a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akkmit)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amikumar91101)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmblecreator)
 
 </div>
 
 <div align="center">
   
-  ## 📝 Cosmic Equations
+  ## 📝 Cosmic Contemplations
   
   ```
-  ∫ code dt = knowledge + experience
+  E = mc²
   ```
   
-  *Continuous integration of code over time equals the sum of knowledge and experience*
+  *The boundary between energy and matter is just the speed of light squared*
+  
+  ```
+  eiπ + 1 = 0
+  ```
+  
+  *The most beautiful equation in mathematics: connecting five fundamental constants*
   
 </div>
 
-<!-- You'll need to create the cosmic_coder.svg file or use another image URL -->
+<!-- You'll need to create the cosmic_explorer.svg file or use another image URL -->
