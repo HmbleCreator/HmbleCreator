@@ -17,13 +17,12 @@ Computer Science Engineer with a passion for exploring the mysteries of mathemat
 
 ## 📊 Expedition Log
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmblecreator&show_icons=true&theme=radical&layout=compact" width="340" alt="Language Stats">
 
 My journey through the intellectual cosmos has equipped me with various tools and skills. Each project represents a new discovery in my ongoing mission to understand the fundamental nature of reality through computational exploration.
 
 My compass is guided by mathematical elegance and an insatiable curiosity about the fabric of space-time.
 
-## 🛠️ Explorer's Toolkit
+## 🛠️ Explorerations
 
 <div align="center">
 
