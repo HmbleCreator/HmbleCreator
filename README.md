@@ -15,13 +15,6 @@
 
 Computer Science Engineer with a passion for exploring the mysteries of mathematics, physics, and the cosmos. I use technology as a telescope to peer into the unknown, mapping digital constellations and charting new territories in the vast universe of knowledge.
 
-## 📊 Expedition Log
-
-
-My journey through the intellectual cosmos has equipped me with various tools and skills. Each project represents a new discovery in my ongoing mission to understand the fundamental nature of reality through computational exploration.
-
-My compass is guided by mathematical elegance and an insatiable curiosity about the fabric of space-time.
-
 ## 🛠️ Explorerations
 
 <div align="center">
