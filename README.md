@@ -72,7 +72,7 @@ Computer Science Engineer with a passion for exploring the mysteries of mathemat
   *The boundary between energy and matter is just the speed of light squared*
   
   ```
-  e^(i π) + 1 = 0
+  e⁽ⁱπ⁾ + 1 = 0
   ```
   
   *The most beautiful equation in mathematics: connecting five fundamental constants*
