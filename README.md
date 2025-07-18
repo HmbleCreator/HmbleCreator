@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Cosmic Explorer & CS Engineer
+  ## Cosmic Explorer & CS Engineer
   
   [![Profile Views](https://komarev.com/ghpvc/?username=hmblecreator&label=Visitors&color=6f42c1&style=flat)](https://github.com/hmblecreator)
   
