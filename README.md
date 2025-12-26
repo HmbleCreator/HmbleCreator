@@ -1,12 +1,9 @@
 <div align="center">
-  
   ## Cosmic Explorer & CS Engineer
-  
+<div align="center">
 
 Computer Science Engineer with a passion for exploring the mysteries of mathematics, physics, and the cosmos. I use technology as a telescope to peer into the unknown, mapping digital constellations and charting new territories in the vast universe of knowledge.
 
-
-<div align="center">
   
   ## 📝 Cosmic Contemplations
   
