@@ -11,17 +11,6 @@ Computer Science Engineer with a passion for exploring the mysteries of mathemat
   ## 📝 Cosmic Contemplations
   
   ```
-  E = mc²
+  Both of them are my creations, the confusion and clarity, but still I seek clarity, and still I create illusions
   ```
-  
-  *The boundary between energy and matter is just the speed of light squared*
-  
-  ```
-eⁱᵖⁱ + 1 = 0
-  ```
-  
-  *The most beautiful equation in mathematics: connecting five fundamental constants*
-  
-</div>
 
-<!-- You'll need to create the cosmic_explorer.svg file or use another image URL -->
